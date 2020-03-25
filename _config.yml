@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Grace Pakeltis
+title                    : "Grace Pakeltis"
 title_separator          : "-"
-name                     : &name "Grace Pakeltis
+name                     : &name "Grace Pakeltis"
 description              : &description "I am a PhD candidate at the University of Tennessee studying Materials Science & Engineering under the advisment of Dr. Philip Rack."
 url                      : https://gracepakeltis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
