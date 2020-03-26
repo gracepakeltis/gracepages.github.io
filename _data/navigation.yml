@@ -4,7 +4,7 @@ main:
     url: /currentwork/
   
    - title: "Publications & Talks"
-    url: /pubstalks/
+    url: /publications/
     
    - title: "Past Work"
     url: /pastwork/
