@@ -10,22 +10,10 @@ main:
     url: /pastwork/
     
   - title: "Beyond the Lab"
-    url: /publications/
+    url: /extra/
 
   - title: "Honors"
     url: /honors/    
 
   - title: "About Me"
     url: /aboutme/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
