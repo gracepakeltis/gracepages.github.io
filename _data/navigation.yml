@@ -1,13 +1,22 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Current Work"
+    url: /currentwork/
+  
+   - title: "Publications & Talks"
+    url: /pubstalks/
+    
+   - title: "Past Work"
+    url: /pastwork/
+    
+  - title: "Beyond the Lab"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Honors"
+    url: /honors/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "About Me"
+    url: /aboutme/    
     
   - title: "Portfolio"
     url: /portfolio/
